@@ -11,7 +11,7 @@ t = 0
 
 T = np.arange(100)
 Y = np.zeros(100)
-Y[0] = pi/6
+Y[0] = pi/3
 X = np.zeros(100)
 X[0] = 1
 
